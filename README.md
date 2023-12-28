@@ -1,4 +1,7 @@
 # TechTitan
+# Hugginface Test
+https://huggingface.co/spaces/mstkyvz/voice_ai_detector
+
 İndex 1
 [![Resim 1](https://github.com/betulllll/TechTitan/raw/main/flaskappvoice/index.png)](https://github.com/betulllll/TechTitan/tree/main/flaskappvoice)
 İndex 2
